@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\quent\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\quent\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Platformer2.-1724382929.00" t="ExcludeRecursive" />
+    <e p="D:\UnityProjects\Platformer2" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Project" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="BlittableBool.cs" t="Include" />
+            <e p="BlittableBoolDrawer.cs" t="Include" />
+            <e p="CameraComponent.cs" t="Include" />
+            <e p="CameraSystem.cs" t="Include" />
+            <e p="CameraTargetComponent.cs" t="Include" />
+            <e p="GravityComponent.cs" t="Include" />
+            <e p="GravitySystem.cs" t="Include" />
+            <e p="HitboxComponent.cs" t="Include" />
+            <e p="InputComponent.cs" t="Include" />
+            <e p="InputSystem.cs" t="Include" />
+            <e p="MenuComponent.cs" t="Include" />
+            <e p="MonitoringComponent.cs" t="Include" />
+            <e p="MonitoringSystem.cs" t="Include" />
+            <e p="MovementComponent.cs" t="Include" />
+            <e p="PlayerMovementSystem.cs" t="Include" />
+            <e p="RoomComponent.cs" t="Include" />
+            <e p="RoomSystem.cs" t="Include" />
+            <e p="SimulationComponent.cs" t="Include" />
+            <e p="SimulationSystem.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Platformer2.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

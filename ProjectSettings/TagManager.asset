@@ -41,9 +41,15 @@ TagManager:
   - name: BackgroundSky
     uniqueID: 3898266625
     locked: 0
+  - name: Platforms
+    uniqueID: 1631737935
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Foreground
-    uniqueID: 3684788269
+  - name: ForegroundPlants
+    uniqueID: 2394734787
+    locked: 0
+  - name: Waterfalls
+    uniqueID: 2432486025
     locked: 0
